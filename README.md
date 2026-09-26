@@ -1,6 +1,6 @@
 # Playtime!
 
-> Fork for 2.2081, upstream - [flngus/Playtime]https://github.com/flngus/Playtime
+> Fork for 2.2081, upstream - [flngus/Playtime](https://github.com/flngus/Playtime)
 
 Display your playtime in-game!
 
