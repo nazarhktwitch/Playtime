@@ -11,6 +11,12 @@
 	"version": "v1.0.2",
 	"developer": "flingus",
 	"description": "Shows how much you played the game.",
+	"tags": [
+		"utility",
+		"enhancement",
+		"interface",
+		"offline"
+	],
 	"links": {
 		"source": "https://github.com/nazarhktwitch/Playtime"
 	}
