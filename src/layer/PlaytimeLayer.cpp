@@ -164,9 +164,9 @@ std::string PlaytimeLayer::formattedTime(float time, bool isEdit) {
 void PlaytimeLayer::onInfo(CCObject* sender) {
     FLAlertLayer::create(
         "Playtime",
-        "Displays your <cy>playtime</c> for the <cg>game</cg>.\n"
+        "Displays your <cy>playtime</c> for the <cg>game</c>.\n"
         "Your <cy>playtime</c> is split up between "
-        "<cl>in-game time</c> and <co>editor time</co>.",
+        "<cl>in-game time</c> and <co>editor time</c>.",
         "OK"
     )->show();
 }
